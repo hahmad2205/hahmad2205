@@ -202,11 +202,19 @@ As a highly skilled Software Engineer, I specialize in the development, and depl
     <th>Languages</th>
   </tr>
   <tr>
-    <td><img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=hahmad2205&theme=gruvbox"/></td>
+    <!-- Stats Card -->
+    <td>
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=hahmad2205&theme=gruvbox&count_private=true" alt="GitHub Stats"/>
+    </td>
+    <!-- Streak Card -->
     <td><a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com/?user=hahmad2205&theme=gruvbox&hide_border=true&border_radius=32&date_format=j%20M%5B%20Y%5D&ring=888888"/></a></td>
-    <td><img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=hahmad2205&theme=gruvbox"/></td>
+    <!-- Top Languages -->
+    <td>
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=hahmad2205&theme=gruvbox&count_private=true" alt="Top Languages"/>
+    </td>
   </tr>
 </table>
+
 
 ## ⚡️Github Contributions
 
