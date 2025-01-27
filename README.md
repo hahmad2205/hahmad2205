@@ -231,12 +231,13 @@ As a highly skilled Software Engineer, I specialize in the development, and depl
  [![An image of @hassaanahmad's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/hassaanahmad)](https://holopin.io/@hassaanahmad)
 
 <br/>
-<h2 align="center">🏆 GitHub Profile Trophy:</h2>
+
+## 🏆 GitHub Trophies
+
 <p align="center">
-<a href="https://github.com/hahmad2205">
-  <img width=600 src="https://github-profile-trophy.vercel.app/?username=hahmad2205&theme=discord"/>
-</a>
+  <img src="https://github-profile-trophy.vercel.app/?username=hahmad2205&theme=gruvbox&no-frame=true&margin-w=15&margin-h=15" alt="GitHub Trophies">
 </p>
+
 <hr>
 <h2 align>Spotify Playing 🎧</h2>
     
