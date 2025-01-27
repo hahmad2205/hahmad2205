@@ -156,6 +156,21 @@ As a highly skilled Software Engineer, I specialize in the development, and depl
 <td align='center'>
 <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg">
 </td>
+<td align='center' width="200">
+<img src="extras/langchain_logo.png">
+</td>
+<td align='center'>
+<img src="extras/openai_logo.svg" width="100">
+</td>
+<td align='center' width="200">
+<img src="extras/scrapy-logo.jpg">
+</td>
+</tr>
+
+<tr>
+<td align='center' width="200">
+<img src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-original-wordmark.svg">
+</td>
 <td align='center'>
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/HTML5_Badge.svg/600px-HTML5_Badge.svg.png" width="70">
 </td>
@@ -164,21 +179,6 @@ As a highly skilled Software Engineer, I specialize in the development, and depl
 </td>
 <td align='center' width="200">
 <img src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-original-wordmark.svg" width="170">
-</td>
-</tr>
-
-<tr>
-<td align='center' width="200">
-<img src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-original-wordmark.svg">
-</td>
-<td align='center' width="200">
-<img src="extras/lanchain_logo.png">
-</td>
-<td align='center'>
-<img src="extras/openai_log.svg">
-</td>
-<td align='center' width="200">
-<img src="extras/scrapy-logo.jpg">
 </td>
 <td align='center' width="200">
 <img src="https://www.vectorlogo.zone/logos/heroku/heroku-ar21.svg">
@@ -202,9 +202,9 @@ As a highly skilled Software Engineer, I specialize in the development, and depl
     <th>Languages</th>
   </tr>
   <tr>
-    <td><img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Hassaan2205&theme=gruvbox"/></td>
-    <td><a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com/?user=Hassaan2205&theme=gruvbox&hide_border=true&border_radius=32&date_format=j%20M%5B%20Y%5D&ring=888888"/></a></td>
-    <td><img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Hassaan2205&theme=gruvbox"/></td>
+    <td><img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=hahmad2205&theme=gruvbox"/></td>
+    <td><a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com/?user=hahmad2205&theme=gruvbox&hide_border=true&border_radius=32&date_format=j%20M%5B%20Y%5D&ring=888888"/></a></td>
+    <td><img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=hahmad2205&theme=gruvbox"/></td>
   </tr>
 </table>
 
