@@ -195,6 +195,7 @@ As a highly skilled Software Engineer, I specialize in the development, and depl
     
 <br>
 
+## 📊 Gitub Stats
 <table>
   <tr>
     <th>Stats</th>
