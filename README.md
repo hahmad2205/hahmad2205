@@ -172,13 +172,13 @@ As a highly skilled Software Engineer, I specialize in the development, and depl
 <img src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-original-wordmark.svg">
 </td>
 <td align='center' width="200">
-<img src="https://github.com/scrapy/scrapy">
+<img src="extras/lanchain_logo.png">
 </td>
 <td align='center'>
-<img src="">
+<img src="extras/openai_log.svg">
 </td>
 <td align='center' width="200">
-<img src="">
+<img src="extras/scrapy-logo.jpg">
 </td>
 <td align='center' width="200">
 <img src="https://www.vectorlogo.zone/logos/heroku/heroku-ar21.svg">
