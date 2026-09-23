@@ -1,249 +1,293 @@
-<body>
 <div align="center">
-    <h1 style="color: #F7CC18FF;">Hi there, I'm Hassaan Ahmad👋<a href="#"></a></h1>
-    <a href="https://github.com/hahmad2205/hahmad2205/tree/main/resume/hassaanahmad_resume.pdf" target="_blank">
-    <img src="https://img.shields.io/badge/View%20My%20Resume-Click%20Here-brightgreen?style=for-the-badge"/>
-  </a>
-  </div>
-<p align="center">
-  <a href="https://github.com/Hassaan2205"><img src="https://readme-typing-svg.herokuapp.com?font=sans-serif+fonts&weight=800&size=24&duration=2000&pause=1000&color=F7CC18&center=true&vCenter=true&width=435&lines=React+Developer;Python+Developer;Django+Developer;Generative+Ai+Engineer;Always%20learning%20new%20Technology&center=true&width=500&height=50" alt="Typing SVG"></a>
-  
-</p>
-<!-- <h1 align="center"> Connect with me: </h1>
-<p align="center">
-  <a href="https://www.cloudskillsboost.google/public_profiles/e6e73b02-4663-4105-b49c-00184e168127"
-  target="blank">
-  <img style="text-align: center;" src="https://cdn.jsdelivr.net/npm/simple-icons@2.17.0/icons/qwiklabs.svg"
-      alt="Hassaan0509" height="30" width="40" />
-</a>
 
-<a href="https://codepen.io/Hassaan0509" target="blank">
-  <img style="text-align: center;" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codepen.svg"
-      alt="Hassaan0509" height="30" width="40" />
-</a>
+# Hi 👋, I'm Hassaan Ahmad
 
-<a href="https://leetcode.com/hahmad2205/" target="blank">
-  <img style="text-align: center;" src="https://cdn.jsdelivr.net/npm/simple-icons@2.17.0/icons/leetcode.svg"
-      alt="Hassaan0509" height="30" width="40" />
-</a>
+### Full Stack AI Engineer
 
-<a href="https://dev.to/hassaan0509" target="blank">
-  <img style="text-align: center;" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg"
-      alt="Hassaan0509" height="30" width="40" />
-</a>
-
-<a href="https://twitter.com/Hassaan67377143" target="blank">
-  <img style="text-align: center;" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg"
-      alt="Hassaan0509" height="30" width="40" />
-</a>
-
-<a href="https://www.linkedin.com/in/hassaan-ahmad-155132221/" target="blank">
-  <img style="text-align: center;" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg"
-      alt="Hassaan0509" height="30" width="40" />
-</a>
-
-<a href="https://www.instagram.com/hassaan.ahmad.2205/" target="blank">
-  <img style="text-align: center;" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg"
-      alt="Hassaan0509" height="30" width="40" />
-</a>
-</p> -->
-    <br>
-
-## About Me
-As a highly skilled Software Engineer, I specialize in the development, and deployment of web applications, web platforms, and hybrid mobile applications. Leveraging a diverse skill set across numerous programming languages and frameworks, I deliver robust and innovative solutions that drive digital transformation and deliver on business objectives.
-
-### Backend Expertise:
-- **Web and Back-End Development**: Proficient in Python, Django, and Django REST Framework for building scalable and maintainable server-side applications.
-- **Django Frameworks**: Skilled in leveraging Django's ecosystem, including Django ORM, middleware, authentication, and third-party integrations, to create efficient and secure back-end systems.
-- **RESTful APIs**: Experienced in developing RESTful APIs using Django REST Framework with features like serialization, viewsets, filtering, and pagination for seamless client-server communication.
-
-### DevOps Skills:
-- **Cloud Services:** Proficient in Amazon Web Services (AWS) and Google Cloud Platform (GCP) for cloud-based solutions.
-- **Containerization and Server Configuration:** Skilled in Docker and Nginx.
-- **Continuous Integration:** Experienced in Jenkins and Github Actions for seamless software development and deployment.
-
-### Database Skills:
-- **Database Management:** Skilled in SQLite, MySQL, PostgreSQL, MongoDB, and DynamoDB for data management and storage.
-- **Queries:** Expert in complex queries.
-
-### DevOps Skills:
-- **Cloud Services:** Proficient in Amazon Web Services (AWS) and Google Cloud Platform (GCP) for cloud-based solutions.
-- **Containerization and Server Configuration:** Skilled in Docker and Nginx.
-- **Continuous Integration:** Experienced in Jenkins and Github Actions for seamless software development and deployment.
-
-### Other Skills:
-- **Web Application Development:** Adept at developing robust and scalable web applications.
-- **Task Management:** Skilled with Celery for distributed task queues.
-- **API Integration:** Experienced in Google Maps API and Payment Gateway Integration (Stripe, Braintree).
-- **Version Control:** Proficient with Jira, Git, Bitbucket, and GitHub for project management and version control.
-
-[//]: # (### I'm a Full Stack Web Developer, Enthuist and Student!)
-
-[//]: # (- 🔭 I’m currently working as Mern Stack Web Developer.)
-
-[//]: # (- 🌱 I’m currently expanding my knowledge in other Web Technologies.)
-
-[//]: # (- 👯 I’m looking to collaborate with other content creators and developers.)
-
-[//]: # (- 🥅 2023-24 Goals: Contribute more to Open Source projects and Execute my Innovative ideas.)
-
-[//]: # (- 💎 If you are a Tech boy/girl let's get connected.)
-
- 
-<br>
-    
-<h2> 🛠 Tech Stack</h2>
-
-<table>
-<tr>
-<td align='center'>
-<img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" width="100">
-</td>
-<td align='center'>
-<img src="https://www.djangoproject.com/m/img/logos/django-logo-negative.png" width="100">
-</td>
-<td align='center'>
-<img src="https://github.com/devicons/devicon/blob/master/icons/djangorest/djangorest-original-wordmark.svg" width="100">
-</td>
-<td align='center'>
-<img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" width="100">
-</td>
-<td align='center'>
-<img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original-wordmark.svg"  width="100">
-</td>
-</tr>
-
-<tr>	
-<td align='center' width="200">
-<img src="https://download.logo.wine/logo/MySQL/MySQL-Logo.wine.png">
-</td>
-<td align='center' width="200">
-<img src="https://github.com/devicons/devicon/blob/master/icons/sqlite/sqlite-original-wordmark.svg" width="100">
-</td>
-<td align='center' width="200">
-<img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original-wordmark.svg"  width="90">
-</td>
-<td align='center' width="200">
-<img src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-plain-wordmark.svg"  width="90">
-</td>
-<td align='center' width="200">
-<img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original-wordmark.svg" width="80">
-</td>
-</tr>
-
-<tr>
-<td align='center' width="200">
-<img src="https://github.com/devicons/devicon/blob/master/icons/googlecloud/googlecloud-original-wordmark.svg" width="150">
-</td>
-<td align='center' width="200">
-<img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="90">
-</td>
-<td align='center' width="200">
-<img src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original-wordmark.svg" width="90">
-</td>
-<td align='center' width="200">
-<img src="https://github.com/devicons/devicon/blob/master/icons/digitalocean/digitalocean-original-wordmark.svg" width="90">
-</td>
-<td align='center'>
-<img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-ar21.svg">
-</td>
-</tr>
-	
-<tr>
-<td align='center' width="200">
-<img src="https://github.com/abranhe/programming-languages-logos/blob/master/src/javascript/javascript.svg" width="90">
-</td>
-<td align='center'>
-<img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg">
-</td>
-<td align='center' width="200">
-<img src="extras/langchain_logo.png">
-</td>
-<td align='center'>
-<img src="extras/openai_logo.svg" width="100">
-</td>
-<td align='center' width="200">
-<img src="extras/scrapy-logo.jpg">
-</td>
-</tr>
-
-<tr>
-<td align='center' width="200">
-<img src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-original-wordmark.svg">
-</td>
-<td align='center'>
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/HTML5_Badge.svg/600px-HTML5_Badge.svg.png" width="70">
-</td>
-<td align='center'>
-<img src="https://raw.githubusercontent.com/devicons/devicon/0d6c64dbbf311879f7d563bfc3ccf559f9ed111c/icons/css3/css3-original-wordmark.svg" width="80">
-</td>
-<td align='center' width="200">
-<img src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-original-wordmark.svg" width="170">
-</td>
-<td align='center' width="200">
-<img src="https://www.vectorlogo.zone/logos/heroku/heroku-ar21.svg">
-</td>
-</tr>
-</table>
-	  
-<p align="center">
-<a href="https://www.linkedin.com/in/hassaan-ahmad-155132221/"><img src="https://img.shields.io/badge/-Hassaan%20Ahmad-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
-<a href="mailto:hahmad2205@gmail.com"><img src="https://img.shields.io/badge/-hassaanahmad@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
-<a href="https://www.instagram.com/hassaan.ahmad.2205/"><img src="https://img.shields.io/badge/-@hassaanahmad-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
-<a href="https://leetcode.com/hahmad2205/"><img src="https://img.shields.io/badge/-/hassaanahmad-e8b519?style=flat&logo=leetcode&logoColor=black"/></a>
- </p>
-    
-<br>
-
-## 📊 Gitub Stats
-<table>
-  <tr>
-    <th>Stats</th>
-    <th>Streak</th>
-    <th>Languages</th>
-  </tr>
-  <tr>
-    <!-- Stats Card -->
-    <td>
-      <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=hahmad2205&theme=gruvbox&count_private=true" alt="GitHub Stats"/>
-    </td>
-    <!-- Streak Card -->
-    <td><a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com/?user=hahmad2205&theme=gruvbox&hide_border=true&border_radius=32&date_format=j%20M%5B%20Y%5D&ring=888888"/></a></td>
-    <!-- Top Languages -->
-    <td>
-      <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=hahmad2205&theme=gruvbox&count_private=true" alt="Top Languages"/>
-    </td>
-  </tr>
-</table>
-
-
-## ⚡️Github Contributions
-
-<h4 align="center">Isometric view of contributions in the last year</h4>
-
-<p align="center">
-  <a href="./profile-3d-contrib/profile-night-rainbow.svg">
-    <img width="900" src="./profile-3d-contrib/profile-night-rainbow.svg" alt="Isometric view of contributions in the last year">
-  </a>
-</p>
-
-
- [![An image of @hassaanahmad's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/hassaanahmad)](https://holopin.io/@hassaanahmad)
+**Building intelligent AI agents, RAG systems & scalable full-stack applications**
 
 <br/>
 
-## 🏆 GitHub Trophies
+<br/>
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=hahmad2205&theme=gruvbox&no-frame=true&margin-w=15&margin-h=15" alt="GitHub Trophies">
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=650&lines=Full+Stack+AI+Engineer;Building+AI+Agents+%26+RAG+Systems;Python+%7C+Django+%7C+FastAPI;LangGraph+%7C+LangChain+%7C+MCP;React+%7C+Next.js+%7C+TypeScript" />
+
+</div>
+
+---
+
+## 👨‍💻 About Me
+
+I'm a **Full Stack AI Engineer** focused on building production-ready AI systems and scalable web applications.
+
+I specialize in **AI agents, multi-agent architectures, RAG systems, LLM integrations, and backend engineering**, primarily using Python, Django, FastAPI, LangChain and LangGraph.
+
+On the frontend, I work with **React, Next.js, TypeScript and Tailwind CSS** to build modern interfaces around intelligent systems.
+
+```python
+hassaan = {
+    "role": "Full Stack AI Engineer",
+    "focus": [
+        "AI Agents",
+        "Multi-Agent Systems",
+        "RAG",
+        "LLM Applications",
+        "Full Stack Development",
+    ],
+    "backend": ["Python", "Django", "DRF", "FastAPI"],
+    "ai": ["LangGraph", "LangChain", "OpenAI", "Pinecone", "Chroma"],
+    "frontend": ["React", "Next.js", "TypeScript", "Tailwind CSS"],
+    "devops": ["Docker", "AWS", "Nginx", "GitHub Actions"],
+}
+```
+
+---
+
+## 🧠 AI & Agentic Engineering
+
+My main focus is designing AI systems that go beyond simple LLM calls.
+
+I work with:
+
+* 🤖 **AI Agents & Multi-Agent Systems**
+* 🔗 **LangGraph & LangChain**
+* 📚 **Retrieval-Augmented Generation (RAG)**
+* 🧩 **Model Context Protocol (MCP)**
+* 🔍 **Vector Search & Semantic Retrieval**
+* 🧠 **LLM Tool / Function Calling**
+* 💬 **Conversational AI**
+* 📄 **Document & Website Processing**
+* ⚡ **Streaming AI Responses**
+* 🔄 **Agent State & Workflow Orchestration**
+
+---
+
+## 🚀 Featured Projects
+
+### 🤖 AI SDR Agent
+
+Multi-agent AI system designed to research prospects and generate actionable sales intelligence.
+
+**What it does**
+
+* Researches prospects from multiple data sources
+* Analyzes company and prospect information
+* Searches relevant news and external sources
+* Coordinates specialized AI agents
+* Produces structured sales intelligence and pitching guides
+
+**Tech**
+
+`Python` · `LangGraph` · `LangChain` · `LLMs` · `Web Scraping` · `APIs`
+
+---
+
+### ✉️ AI Email Writer
+
+AI-powered email generation system for creating personalized outreach and email sequences.
+
+**Highlights**
+
+* Personalized email generation
+* Prospect-aware content
+* Multi-step email sequences
+* LLM-powered writing workflows
+* Integrated with AI research pipelines
+
+**Tech**
+
+`Python` · `LangChain` · `LangGraph` · `LLMs`
+
+---
+
+### 🛒 Shopify AI Agent
+
+Conversational AI shopping assistant capable of interacting with a Shopify storefront.
+
+The agent can:
+
+* 🔎 Search products
+* 🛒 Add products to cart
+* ➖ Remove products from cart
+* 🔄 Update product quantities
+* 📦 Retrieve cart information
+* 💬 Understand conversational shopping requests
+
+Built using a **tool-based LangGraph architecture** where specialized nodes handle different shopping operations.
+
+**Tech**
+
+`Python` · `LangGraph` · `Shopify GraphQL` · `LLMs` · `Tool Calling`
+
+---
+
+### 💬 Booosted — AI Chatbot SaaS
+
+A SaaS platform for creating AI-powered chatbots trained on business content.
+
+**Features**
+
+* 🌐 Website crawling
+* 📄 Document ingestion
+* 🧠 Vector embeddings
+* 💬 RAG-based conversations
+* 👥 Lead generation
+* 📊 Admin analytics
+* 💳 Stripe subscriptions
+* ⚙️ Background processing
+
+**Tech**
+
+`Django` · `DRF` · `Celery` · `Redis` · `PostgreSQL` · `Pinecone` · `Chroma` · `Stripe` · `Docker`
+
+---
+
+## 🛠️ Tech Stack
+
+### 🤖 AI / LLM
+
+<p>
+<img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white"/>
+<img src="https://img.shields.io/badge/LangGraph-121212?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white"/>
+<img src="https://img.shields.io/badge/MCP-Model_Context_Protocol-5A67D8?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Pinecone-000000?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Chroma-FFDE59?style=for-the-badge"/>
 </p>
 
-<hr>
-<h2 align>Spotify Playing 🎧</h2>
-    
-![Spotify](https://novatorem.vercel.app/api/spotify)
-    
-<p align="center"> 
-  Views<br>
-  <img src="https://profile-counter.glitch.me/hassaanahmad/count.svg" />
+### ⚙️ Backend
+
+<p>
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white"/>
+<img src="https://img.shields.io/badge/Django_REST-ff1709?style=for-the-badge&logo=django&logoColor=white"/>
+<img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white"/>
+<img src="https://img.shields.io/badge/Celery-37814A?style=for-the-badge&logo=celery&logoColor=white"/>
 </p>
+
+### 🎨 Frontend
+
+<p>
+<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+<img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white"/>
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+<img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white"/>
+</p>
+
+### 🗄️ Databases & Vector Stores
+
+<p>
+<img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"/>
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+<img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"/>
+<img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white"/>
+<img src="https://img.shields.io/badge/Pinecone-Vector_DB-000000?style=for-the-badge"/>
+</p>
+
+### ☁️ DevOps & Cloud
+
+<p>
+<img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white"/>
+<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
+<img src="https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white"/>
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+</p>
+
+---
+
+## 🌱 Currently Exploring
+
+```text
+🧩 Model Context Protocol (MCP)
+🤖 Advanced Multi-Agent Architectures
+🧠 Production AI Agent Design
+⚡ Scalable LLM Applications
+🔍 Advanced RAG & Retrieval Systems
+```
+
+---
+
+## 📊 GitHub Analytics
+
+<div align="center">
+
+<img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=hahmad2205&theme=github_dark" />
+
+<img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=hahmad2205&theme=github_dark" />
+
+</div>
+
+<br/>
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=hahmad2205&theme=github-dark-blue&hide_border=true" />
+
+</div>
+
+---
+
+## ⚡ Contribution Activity
+
+<div align="center">
+
+<img src="./profile-3d-contrib/profile-night-rainbow.svg" width="900" alt="GitHub Contribution Graph"/>
+
+</div>
+
+---
+[![An image of @hassaanahmad's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/hassaanahmad)](https://holopin.io/@hassaanahmad)
+
+---
+
+## 🏆 GitHub Achievements
+
+<div align="center">
+
+<img
+  src="https://github-profile-svg.vercel.app/api/profile?username=hahmad2205&mode=unreal&theme=dark"
+  alt="Hassaan Ahmad GitHub Trophies"
+/>
+
+</div>
+
+---
+
+## 🐍 Contribution Journey
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/hahmad2205/hahmad2205/output/github-contribution-grid-snake-dark.svg"
+     alt="Contribution Snake" />
+
+</div>
+
+---
+
+## 👀 Profile Views
+
+<div align="center">
+
+<img src="https://komarev.com/ghpvc/?username=hahmad2205&label=PROFILE+VIEWS&style=for-the-badge" alt="Profile Views" />
+
+</div>
+
+---
+
+## 🤝 Let's Connect
+
+I'm interested in building **AI-powered products, intelligent agents and scalable full-stack systems**.
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Hassaan_Ahmad-0077B5?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/hassaan-ahmad-155132221/)
+[![Email](https://img.shields.io/badge/Email-hahmad2205%40gmail.com-EA4335?style=for-the-badge\&logo=gmail\&logoColor=white)](mailto:hahmad2205@gmail.com)
+[![LeetCode](https://img.shields.io/badge/LeetCode-hahmad2205-FFA116?style=for-the-badge\&logo=leetcode\&logoColor=black)](https://leetcode.com/hahmad2205/)
+
+<br/><br/>
+
+### 💡 *Building intelligent systems, one agent at a time.*
+
+</div>
