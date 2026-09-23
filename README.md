@@ -284,7 +284,9 @@ I'm interested in building **AI-powered products, intelligent agents and scalabl
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Hassaan_Ahmad-0077B5?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/hassaan-ahmad-155132221/)
 [![Email](https://img.shields.io/badge/Email-hahmad2205%40gmail.com-EA4335?style=for-the-badge\&logo=gmail\&logoColor=white)](mailto:hahmad2205@gmail.com)
-[![LeetCode](https://img.shields.io/badge/LeetCode-hahmad2205-FFA116?style=for-the-badge\&logo=leetcode\&logoColor=black)](https://leetcode.com/hahmad2205/)
+[![Website](https://img.shields.io/badge/Website-hassaan--ahmad.com-4285F4?style=for-the-badge\&logo=googlechrome\&logoColor=white)](https://hassaan-ahmad.com)
+
+</div>
 
 <br/><br/>
 
