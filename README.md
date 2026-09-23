@@ -287,9 +287,3 @@ I'm interested in building **AI-powered products, intelligent agents and scalabl
 [![Website](https://img.shields.io/badge/Website-hassaan--ahmad.com-4285F4?style=for-the-badge\&logo=googlechrome\&logoColor=white)](https://hassaan-ahmad.com)
 
 </div>
-
-<br/><br/>
-
-### 💡 *Building intelligent systems, one agent at a time.*
-
-</div>
